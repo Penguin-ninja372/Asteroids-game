@@ -10,3 +10,5 @@ Press C to activate freeze mode (stop asteroid movement).
 Press X to activate power mode (destroy asteroids in one hit rather than them splitting).
 
 You cannot move backward!
+
+Also note that currently, asteroids spawn as soon as all asteroids are gone and there is a chance that asteroids spawn on your ship meaning you take immediate damage.
